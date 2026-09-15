@@ -4,21 +4,14 @@
     "href": "index.html",
     "title": "Julia Zhu",
     "section": "",
-    "text": "Hi! I’m Julia Zhu. Welcome to my personal website for AD688: Big Data and Cloud Analytics for Business.\nThis site contains coursework and examples created using Python, PySpark, Quarto, and AWS EC2."
+    "text": "Hi! I’m Julia Zhu. Welcome to my personal website for AD688: Big Data and Cloud Analytics for Business.\nThis site contains coursework and examples created using Python, PySpark, Quarto, and AWS EC2. ## Python Example\n\nimport pandas as pd\n\ndata = {\n    \"Tool\": [\"Python\", \"PySpark\", \"Quarto\", \"Git\"],\n    \"Purpose\": [\n        \"Data analysis\",\n        \"Big data processing\",\n        \"Reproducible publishing\",\n        \"Version control\"\n    ]\n}\n\ndf = pd.DataFrame(data)\ndf\n\n\n\n\n\n\n\n\nTool\nPurpose\n\n\n\n\n0\nPython\nData analysis\n\n\n1\nPySpark\nBig data processing\n\n\n2\nQuarto\nReproducible publishing\n\n\n3\nGit\nVersion control"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Julia Zhu",
     "section": "",
-    "text": "Hi! I’m Julia Zhu. Welcome to my personal website for AD688: Big Data and Cloud Analytics for Business.\nThis site contains coursework and examples created using Python, PySpark, Quarto, and AWS EC2."
-  },
-  {
-    "objectID": "index.html#python-example",
-    "href": "index.html#python-example",
-    "title": "Julia Zhu",
-    "section": "Python Example",
-    "text": "Python Example\nimport pandas as pd\ndata = { “Tool”: [“Python”, “PySpark”, “Quarto”, “Git”], “Purpose”: [ “Data analysis”, “Big data processing”, “Reproducible publishing”, “Version control” ] }\ndf = pd.DataFrame(data) df"
+    "text": "Hi! I’m Julia Zhu. Welcome to my personal website for AD688: Big Data and Cloud Analytics for Business.\nThis site contains coursework and examples created using Python, PySpark, Quarto, and AWS EC2. ## Python Example\n\nimport pandas as pd\n\ndata = {\n    \"Tool\": [\"Python\", \"PySpark\", \"Quarto\", \"Git\"],\n    \"Purpose\": [\n        \"Data analysis\",\n        \"Big data processing\",\n        \"Reproducible publishing\",\n        \"Version control\"\n    ]\n}\n\ndf = pd.DataFrame(data)\ndf\n\n\n\n\n\n\n\n\nTool\nPurpose\n\n\n\n\n0\nPython\nData analysis\n\n\n1\nPySpark\nBig data processing\n\n\n2\nQuarto\nReproducible publishing\n\n\n3\nGit\nVersion control"
   },
   {
     "objectID": "about.html",
