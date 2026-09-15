@@ -1,0 +1,20 @@
+---
+title: "About"
+---
+
+## About Me
+
+I'm Julia Zhu, a student in AD688: Big Data and Cloud Analytics for Business.
+
+This website was created using Quarto and is hosted through GitHub Pages. The development environment runs on an AWS EC2 Ubuntu instance.
+
+## Tools
+
+For this course, I am working with:
+
+- Python
+- PySpark
+- Jupyter
+- Git and GitHub
+- Quarto
+- AWS EC2

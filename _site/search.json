@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julia Zhu",
+    "section": "",
+    "text": "Hi! I’m Julia Zhu. Welcome to my personal website for AD688: Big Data and Cloud Analytics for Business.\nThis site contains coursework and examples created using Python, PySpark, Quarto, and AWS EC2."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Julia Zhu",
+    "section": "",
+    "text": "Hi! I’m Julia Zhu. Welcome to my personal website for AD688: Big Data and Cloud Analytics for Business.\nThis site contains coursework and examples created using Python, PySpark, Quarto, and AWS EC2."
+  },
+  {
+    "objectID": "index.html#python-example",
+    "href": "index.html#python-example",
+    "title": "Julia Zhu",
+    "section": "Python Example",
+    "text": "Python Example\nimport pandas as pd\ndata = { “Tool”: [“Python”, “PySpark”, “Quarto”, “Git”], “Purpose”: [ “Data analysis”, “Big data processing”, “Reproducible publishing”, “Version control” ] }\ndf = pd.DataFrame(data) df"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Julia Zhu, a student in AD688: Big Data and Cloud Analytics for Business.\nThis website was created using Quarto and is hosted through GitHub Pages. The development environment runs on an AWS EC2 Ubuntu instance."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I’m Julia Zhu, a student in AD688: Big Data and Cloud Analytics for Business.\nThis website was created using Quarto and is hosted through GitHub Pages. The development environment runs on an AWS EC2 Ubuntu instance."
+  },
+  {
+    "objectID": "about.html#tools",
+    "href": "about.html#tools",
+    "title": "About",
+    "section": "Tools",
+    "text": "Tools\nFor this course, I am working with:\n\nPython\nPySpark\nJupyter\nGit and GitHub\nQuarto\nAWS EC2"
+  }
+]
